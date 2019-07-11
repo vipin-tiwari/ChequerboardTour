@@ -1,4 +1,5 @@
 This is the solution to the chequerboard tour problem.
+# ChequerboardTour
 
 It has solved the problem by implementing the Warnsdorff's Heuristic method to find a path such that it includes all the boxes of the 10x10 chequerboard.
 
@@ -7,14 +8,17 @@ How to Run:
 1. To build the code you can use gradle:
    `gradle build`
 
-   ```Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
-   		BUILD SUCCESSFUL in 8s
-		4 actionable tasks: 4 executed```
+   ```
+   Starting a Gradle Daemon, 1 incompatible Daemon could not be reused, use --status for details
+   BUILD SUCCESSFUL in 8s 
+   4 actionable tasks: 4 execute
+   ```
 
 2. To run the unit test cases:
 	`gradle test`
 
-	```BUILD SUCCESSFUL in 0s
+	```
+	BUILD SUCCESSFUL in 0s
 	3 actionable tasks: 3 up-to-date
 	```
 
@@ -57,3 +61,4 @@ Time taken by WarnsdorffHeuristicTieBreaker is less than WarnsdorffHeuristic by 
 This shows WarnsdorffHeuristicTieBreaker is Efficient by the Factor of 500 percentage
 
 ```
+

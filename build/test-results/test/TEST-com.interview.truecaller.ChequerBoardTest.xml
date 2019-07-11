@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.interview.truecaller.ChequerBoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-07-11T04:04:02" hostname="Vipins-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="TestMoveInRangeAndNotVisited" classname="com.interview.truecaller.ChequerBoardTest" time="0.005"/>
+  <testcase name="TestResetPath" classname="com.interview.truecaller.ChequerBoardTest" time="0.007"/>
+  <testcase name="TestMovesAllowedFromPosition" classname="com.interview.truecaller.ChequerBoardTest" time="0.0"/>
+  <testcase name="TestMoveInRange" classname="com.interview.truecaller.ChequerBoardTest" time="0.0"/>
+  <testcase name="TestGetPathUnModifiable" classname="com.interview.truecaller.ChequerBoardTest" time="0.0"/>
+  <system-out><![CDATA[Starting with position: (0,0).
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

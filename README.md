@@ -3,7 +3,7 @@ This is the solution to the chequerboard tour problem.
 
 It has solved the problem by implementing the Warnsdorff's Heuristic method to find a path such that it includes all the boxes of the 10x10 chequerboard.
 
-How to Run:
+##How to Run:
 
 1. To build the code you can use gradle:
    `gradle build`
@@ -62,3 +62,10 @@ This shows WarnsdorffHeuristicTieBreaker is Efficient by the Factor of 500 perce
 
 ```
 
+
+##Interested to use the docker?
+
+1. Build the docker Image:
+   `docker build -t tourdemo .`
+2. Run the demo:
+   `docker run -ti --rm -P tourdemo`
